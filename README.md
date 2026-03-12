@@ -1,20 +1,26 @@
-Python Practice Repository
-This repository contains a collection of Python scripts and notebooks focused on core programming concepts, data manipulation, and machine learning.
+# Python Practice Repository
 
-📂 Repository Structure
-Basics: Syntax, data types, and control flow.
+A curated collection of Python scripts and notebooks to strengthen core programming skills, data manipulation techniques, and introductory machine learning concepts.  
 
-OOP: Classes, inheritance, and encapsulation.
+## 📂 Repository Structure
 
-Data Analysis: Implementation of Pandas and NumPy for data cleaning and merging.
+- **Basics**  
+  Learn Python syntax, data types, and control flow fundamentals.  
 
-Machine Learning: Model training using Scikit-learn (Linear Regression, Classification).
+- **Object-Oriented Programming (OOP)**  
+  Explore classes, inheritance, and encapsulation concepts with practical examples.  
 
-Recursion: Mathematical patterns and logic puzzles solved without loops.
+- **Data Analysis**  
+  Hands-on implementations using **Pandas** and **NumPy** for data cleaning, transformation, and merging.  
 
-🛠️ Tech Stack
-Language: Python 3.x
+- **Machine Learning**  
+  Train and evaluate models using **Scikit-learn**, including Linear Regression and Classification.  
 
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib
+- **Recursion**  
+  Solve mathematical patterns and logic puzzles without loops using recursive techniques.  
 
-Tools: Jupyter Notebooks, VS Code
+## 🛠️ Tech Stack
+
+- **Language:** Python 3.x  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib  
+- **Tools:** Jupyter Notebooks, VS Code  

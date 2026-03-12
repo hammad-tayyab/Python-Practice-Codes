@@ -1,7 +1,6 @@
 # cousera learning materail while the data analysis cousrse is in progress
 import warnings
 warnings.filterwarnings('ignore')
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
