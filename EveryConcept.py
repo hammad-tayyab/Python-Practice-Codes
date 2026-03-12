@@ -1,3 +1,8 @@
+
+# in this file i have practice every concept of python that i have learned so far in a single file to make it easier for me to revise and also to have a better understanding of the concepts by seeing them all together in one place
+# i dont know what happened to me that all the things are just compiled into one file
+
+
 # print("Hello, World!")
 # # This is a comment    
 # #executing multiple print stsatements in a single line
